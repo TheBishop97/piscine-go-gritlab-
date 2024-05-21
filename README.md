@@ -1,1 +1,2 @@
-# piscine-go-gritlab-
+# piscine-go
+
